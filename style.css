@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  min-height: 100vh;
 }
 
 .header {
@@ -16,7 +17,8 @@ img {
 }
 .section-two {
   display: flex;
-
+  justify-content: center;
+  align-items: center;
 }
 
 .section-three {
@@ -27,6 +29,9 @@ img {
   background-color: rgb(30, 191, 193);
 }
 
+.title-three {
+  
+}
 .footer {
   background-color: rgb(103, 78, 154);
 }
