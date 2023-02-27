@@ -12,6 +12,7 @@ body {
 
 img {
   width: 100px;
+  border-radius: 25px;
 }
 .section-two {
   display: flex;
