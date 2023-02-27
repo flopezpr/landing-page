@@ -7,10 +7,20 @@ body {
 
 .header {
   background-color: rgb(63, 63, 173);
-  color: white;
+  
 
 }
 
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  
+}
 img {
   width: 100px;
   border-radius: 25px;
