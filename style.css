@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  background-color: rgb(63, 63, 173);
+  background-color: #1F2937;
   
 
 }
@@ -17,6 +17,10 @@ a {
   color: white;
 }
 
+.title, .first-para {
+  color: white;
+}
+
 ul {
   list-style-type: none;
   
@@ -24,6 +28,10 @@ ul {
 img {
   width: 100px;
   border-radius: 25px;
+}
+
+.headerpic {
+  width: 400px;
 }
 .section-two {
   display: flex;
@@ -43,5 +51,8 @@ img {
   
 }
 .footer {
-  background-color: rgb(103, 78, 154);
+  background-color: #1f2937;
+  color: white;
+  display:flex;
+  justify-content: center;
 }
