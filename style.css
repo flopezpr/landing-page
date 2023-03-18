@@ -3,6 +3,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
+  margin: 0px;
 }
 
 .header {
@@ -37,6 +38,11 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 16px;
+}
+
+.square {
+  max-width: 200px;
 }
 
 .section-three {
