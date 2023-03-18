@@ -49,6 +49,10 @@ img {
   background-color: rgb(208, 223, 235);
 }
 
+.section-four {
+  display:flex;
+  justify-content: center;
+}
 .mini {
   background-color: rgb(30, 191, 193);
 }
