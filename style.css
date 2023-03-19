@@ -40,6 +40,11 @@ img {
   gap: 16px;
 }
 
+.squares {
+  display: flex;
+  margin: auto;
+  gap: 5em;
+}
 .square {
   max-width: 200px;
 }
